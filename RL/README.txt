@@ -5,4 +5,4 @@ Task 1:
 Task2:
 - 5 python programs from the task with implementation of DQN
 - hometask2_written.pdf with some task written by hand
-- RL homework 2.docx with brief conclusions and Score plots
+- RL_homework_2.pdf with brief conclusions and Score plots
